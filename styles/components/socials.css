@@ -1,5 +1,5 @@
 .social-list{
-    display: inline-block;
+    display: flex;
     margin-right: 74px;
 }
 
@@ -10,7 +10,7 @@
 .social-list__link {
     width: 36px;
     height: 36px;
-    display: inline-block;
+    
     border-radius: 50%;
     overflow: hidden;
     position: relative;
@@ -29,7 +29,8 @@
     width: 100%;
     height: 100%;
     display: block;
-    position: absolute;
+    position: relative;
+    justify-content: flex-end;
     top: 0;
     transition: .3s;
 }
