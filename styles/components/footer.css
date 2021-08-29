@@ -1,14 +1,28 @@
 .footer {
     padding: 42px 0 57px ;
     font-size: 14px;
+    position: relative;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+}
+
+.header	col {
+    display: flex; 
+    align-items: center;
 }
 
 .footer__logo {
     margin-right: 79px;
 }
 
+.header__col--align--right{
+    justify-content: flex-end;
+}
+
 .footer__socials {
-    margin-left: 150px;
+    margin-left: 74px;
+    justify-content: flex-end;
 }
 
 

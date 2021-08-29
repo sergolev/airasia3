@@ -1,6 +1,20 @@
 .header {
     padding: 25px 0;
     font-size: 14px;
+    position: relative;
+    margin-bottom: 135px; 
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+}
+
+.header	col {
+    display: flex; 
+    align-items: center;
+}
+
+.header__col--align--right{
+    justify-content: flex-end;
 }
 
 .header__logo {
