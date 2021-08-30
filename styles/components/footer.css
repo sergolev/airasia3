@@ -4,7 +4,6 @@
     display: flex;
     justify-content: space-between; 
     align-items: center;
-    margin-bottom: 61px;
 }
 
 .footer__col {
@@ -16,11 +15,6 @@
     margin-right: 79px;
     align-items: center;
     display: inline-ublock;
-    margin-bottom: -20px;
-}
-
-.footer__nav{
-    margin-bottom: -20px;
 }
 
 .footer__col--align--right{

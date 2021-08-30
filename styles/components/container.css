@@ -1,0 +1,7 @@
+.container {
+    display: flex;
+}
+
+.container__footer__col--align--right{
+    align-items: center;
+}

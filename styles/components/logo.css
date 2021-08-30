@@ -4,3 +4,7 @@
     height: 36px;
     align-items: center;
 }
+
+.logo__link {
+    display: block;
+}
