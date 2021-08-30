@@ -1,12 +1,13 @@
 .site-nav {
     display: inline-block;
     position: relative;
-    top: -13px;
-}
+    align-items: center;
+} 
 
 .site-nav__link {
     color: #fff;
     text-decoration: none;
+    align-items: center;
 }
 
 .site-nav__link_active {

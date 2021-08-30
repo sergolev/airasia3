@@ -4,6 +4,7 @@
     display: flex;
     justify-content: space-between; 
     align-items: center;
+    margin-bottom: 61px;
 }
 
 .footer__col {
@@ -13,10 +14,17 @@
 
 .footer__logo {
     margin-right: 79px;
-    display: inline-block;
+    align-items: center;
+    display: inline-ublock;
+    margin-bottom: -20px;
+}
+
+.footer__nav{
+    margin-bottom: -20px;
 }
 
 .footer__col--align--right{
+    display: flex;
     justify-content: flex-end;
 }
 

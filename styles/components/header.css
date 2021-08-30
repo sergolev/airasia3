@@ -14,9 +14,12 @@
 
 .header__col--align--right{
     justify-content: flex-end;
+    margin-top: 79px;
+
 }
 
 .header__logo {
     display: inline-block;
     margin-right: 79px;
+    margin-top: 50px;
 }
