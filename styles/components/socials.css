@@ -4,13 +4,12 @@
 }
 
 .footer__socials {
-    margin-left: 274px; 
+    margin-left: 74px; 
 }
 
 .social-list__link {
     width: 36px;
     height: 36px;
-    
     border-radius: 50%;
     overflow: hidden;
     position: relative;
@@ -30,7 +29,7 @@
     height: 100%;
     display: block;
     position: relative;
-    justify-content: flex-end;
+    justify-content: center;
     top: 0;
     transition: .3s;
 }

@@ -7,22 +7,22 @@
     align-items: center;
 }
 
-.header	col {
+.footer__col {
     display: flex; 
     align-items: center;
 }
 
 .footer__logo {
     margin-right: 79px;
+    display: inline-block;
 }
 
-.header__col--align--right{
+.footer__col--align--right{
     justify-content: flex-end;
 }
 
 .footer__socials {
     margin-left: 74px;
-    justify-content: flex-end;
 }
 
 
