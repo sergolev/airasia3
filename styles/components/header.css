@@ -1,5 +1,4 @@
 .header {
-    padding: 80px;
     font-size: 14px;
     position: relative;
     margin-bottom: 135px; 
@@ -19,6 +18,5 @@
 
 .header__logo {
     display: inline-block;
-    padding-top: 10px;
     margin-right: 79px;
 }
