@@ -7,19 +7,18 @@
     align-items: center;
 }
 
-.header	col {
+.header__col {
     display: flex; 
     align-items: center;
 }
 
 .header__col--align--right{
     justify-content: flex-end;
-    margin-top: 79px;
-
+    display: flex;
+    align-items: center;
 }
 
 .header__logo {
     display: inline-block;
     margin-right: 79px;
-    margin-top: 50px;
 }
