@@ -4,6 +4,13 @@
     display: flex;
     justify-content: space-between; 
     align-items: center;
+    padding-bottom: 57px;
+}
+
+.footer__conteiner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .footer__col {
